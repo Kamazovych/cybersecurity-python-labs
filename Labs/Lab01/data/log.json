@@ -1,0 +1,4 @@
+{"event": "login", "user": "admin", "result": "success", "timestamp": "2026-09-28 00:49:26", "args": ["admin", "SuperSecret123"], "kwargs": {}}
+{"event": "login", "user": "vladyslav", "result": "failure", "timestamp": "2026-09-28 00:49:26", "args": ["vladyslav", "WrongPassword10"], "kwargs": {}}
+{"event": "login", "user": "admin", "result": "success", "timestamp": "2026-09-27 22:01:41", "args": ["admin", "SuperSecret123"], "kwargs": {}}
+{"event": "login", "user": "vladyslav", "result": "failure", "timestamp": "2026-09-27 22:01:41", "args": ["vladyslav", "WrongPassword10"], "kwargs": {}}
